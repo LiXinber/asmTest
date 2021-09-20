@@ -1,0 +1,10 @@
+org\lix\cddcTest\use\MainFucApplication.class
+org\lix\asmtest\use\BigDecimalTest1.class
+org\lix\asmtest\use\MainApplication.class
+org\lix\asmtest\use\MainApplication$GeneratorClassLoader.class
+org\lix\cddcTest\use\BigDecimalFucTest.class
+org\lix\cddcTest\use\CDDCContext$DivisorConfig.class
+org\lix\cddcTest\use\CDDCContext.class
+org\lix\cddcTest\use\CDDCVar.class
+org\lix\cddcTest\use\CDDCResult.class
+org\lix\cddcTest\use\CDDCFunction.class
